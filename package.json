@@ -1,0 +1,30 @@
+{
+  "name": "js-sleep-timer",
+  "version": "1.0.0",
+  "description": "Javascript sleep timer",
+  "main": "index.ts",
+  "scripts": {
+    "test": "tsc && node dist/test",
+    "start": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAnish11/JS-Sleep.git"
+  },
+  "keywords": [
+    "javascript",
+    "sleep"
+  ],
+  "author": "Anish Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AAnish11/JS-Sleep/issues"
+  },
+  "homepage": "https://github.com/AAnish11/JS-Sleep#readme",
+  "dependencies": {
+    "tsc": "^1.20150623.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
